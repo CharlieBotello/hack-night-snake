@@ -1,0 +1,3 @@
+def snake
+  puts ""
+end
